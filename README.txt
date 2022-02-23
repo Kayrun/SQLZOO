@@ -1,0 +1,1 @@
+This repository contains the introductory class to git and its commands.
